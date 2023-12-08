@@ -1,11 +1,12 @@
-# Pds_Final_Project
+# Big Data Job Analysis for Skill Proficiency and Job Families
+
 
 Team Members: 
 
-Rohith Rudrapati - 16336342
-Pradeepthi Kavuri - 16346846
-Harshini Mukta - 16343791
-Siddartha Rao Damarla - 16337125
+1. Rohith Rudrapati - 16336342
+2. Pradeepthi Kavuri - 16346846
+3. Harshini Mukta - 16343791
+4. Siddartha Rao Damarla - 16337125
 
 Project Description:
 Recruitment is a challenging job responsibility of the HR department of any company. Create a Big
