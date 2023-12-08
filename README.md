@@ -17,3 +17,6 @@ Identify homogeneous groups of Big Data skills that are highly valued by compani
 Characterize each Big Data job family according to the level of competence required for each Big
 Data skill set.
 The goal of this project is to help the HR department find better recruitments for Big Data job roles.
+
+
+Dataset: https://www.kaggle.com/datasets/joyshil0599/data-science-jobs-comprehensive-dataset
